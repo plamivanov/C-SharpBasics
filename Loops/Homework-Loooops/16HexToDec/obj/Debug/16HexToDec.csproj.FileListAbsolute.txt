@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\Homework-Loooops\16HexToDec\bin\Debug\16HexToDec.exe.config
+D:\DomashniVisualStudio\Homework-Loooops\16HexToDec\bin\Debug\16HexToDec.exe
+D:\DomashniVisualStudio\Homework-Loooops\16HexToDec\bin\Debug\16HexToDec.pdb
+D:\DomashniVisualStudio\Homework-Loooops\16HexToDec\obj\Debug\16HexToDec.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\Homework-Loooops\16HexToDec\obj\Debug\16HexToDec.exe
+D:\DomashniVisualStudio\Homework-Loooops\16HexToDec\obj\Debug\16HexToDec.pdb

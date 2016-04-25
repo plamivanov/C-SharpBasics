@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\Homework-Operators-Expressions\12BitN3\bin\Debug\12BitN3.exe.config
+D:\DomashniVisualStudio\Homework-Operators-Expressions\12BitN3\bin\Debug\12BitN3.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\12BitN3\bin\Debug\12BitN3.pdb
+D:\DomashniVisualStudio\Homework-Operators-Expressions\12BitN3\obj\Debug\12BitN3.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\12BitN3\obj\Debug\12BitN3.pdb

@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\Intro-Programming-Homework\04PrintFirstAndLastName\bin\Debug\04PrintFirstAndLastName.exe.config
+D:\DomashniVisualStudio\Intro-Programming-Homework\04PrintFirstAndLastName\bin\Debug\04PrintFirstAndLastName.exe
+D:\DomashniVisualStudio\Intro-Programming-Homework\04PrintFirstAndLastName\bin\Debug\04PrintFirstAndLastName.pdb
+D:\DomashniVisualStudio\Intro-Programming-Homework\04PrintFirstAndLastName\obj\Debug\04PrintFirstAndLastName.exe
+D:\DomashniVisualStudio\Intro-Programming-Homework\04PrintFirstAndLastName\obj\Debug\04PrintFirstAndLastName.pdb

@@ -1,0 +1,6 @@
+c:\users\rumimeche\documents\visual studio 2013\Projects\Homework-EncapsulationAndPolymorphism\02BankOfBokoTikvanov\bin\Debug\02BankOfBokoTikvanov.exe.config
+c:\users\rumimeche\documents\visual studio 2013\Projects\Homework-EncapsulationAndPolymorphism\02BankOfBokoTikvanov\bin\Debug\02BankOfBokoTikvanov.exe
+c:\users\rumimeche\documents\visual studio 2013\Projects\Homework-EncapsulationAndPolymorphism\02BankOfBokoTikvanov\bin\Debug\02BankOfBokoTikvanov.pdb
+c:\users\rumimeche\documents\visual studio 2013\Projects\Homework-EncapsulationAndPolymorphism\02BankOfBokoTikvanov\obj\Debug\02BankOfBokoTikvanov.exe
+c:\users\rumimeche\documents\visual studio 2013\Projects\Homework-EncapsulationAndPolymorphism\02BankOfBokoTikvanov\obj\Debug\02BankOfBokoTikvanov.pdb
+c:\users\rumimeche\documents\visual studio 2013\Projects\Homework-EncapsulationAndPolymorphism\02BankOfBokoTikvanov\obj\Debug\02BankOfBokoTikvanov.csprojResolveAssemblyReference.cache

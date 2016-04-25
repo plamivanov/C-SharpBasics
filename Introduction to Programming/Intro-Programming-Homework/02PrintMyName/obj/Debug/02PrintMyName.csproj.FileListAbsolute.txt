@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\Intro-Programming-Homework\02PrintMyName\bin\Debug\02PrintMyName.exe.config
+D:\DomashniVisualStudio\Intro-Programming-Homework\02PrintMyName\bin\Debug\02PrintMyName.exe
+D:\DomashniVisualStudio\Intro-Programming-Homework\02PrintMyName\bin\Debug\02PrintMyName.pdb
+D:\DomashniVisualStudio\Intro-Programming-Homework\02PrintMyName\obj\Debug\02PrintMyName.exe
+D:\DomashniVisualStudio\Intro-Programming-Homework\02PrintMyName\obj\Debug\02PrintMyName.pdb

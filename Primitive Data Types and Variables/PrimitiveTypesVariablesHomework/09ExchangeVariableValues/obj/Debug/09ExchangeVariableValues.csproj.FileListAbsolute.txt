@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe.config
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\09ExchangeVariableValues\bin\Debug\09ExchangeVariableValues.pdb
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\09ExchangeVariableValues\obj\Debug\09ExchangeVariableValues.pdb

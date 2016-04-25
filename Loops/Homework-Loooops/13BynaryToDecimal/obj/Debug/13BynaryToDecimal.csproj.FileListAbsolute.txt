@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\Homework-Loooops\13BynaryToDecimal\bin\Debug\13BynaryToDecimal.exe.config
+D:\DomashniVisualStudio\Homework-Loooops\13BynaryToDecimal\bin\Debug\13BynaryToDecimal.exe
+D:\DomashniVisualStudio\Homework-Loooops\13BynaryToDecimal\bin\Debug\13BynaryToDecimal.pdb
+D:\DomashniVisualStudio\Homework-Loooops\13BynaryToDecimal\obj\Debug\13BynaryToDecimal.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\Homework-Loooops\13BynaryToDecimal\obj\Debug\13BynaryToDecimal.exe
+D:\DomashniVisualStudio\Homework-Loooops\13BynaryToDecimal\obj\Debug\13BynaryToDecimal.pdb

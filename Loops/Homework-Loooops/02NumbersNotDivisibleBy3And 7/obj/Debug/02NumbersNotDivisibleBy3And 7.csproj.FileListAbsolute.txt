@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\Homework-Loooops\02NumbersNotDivisibleBy3And 7\bin\Debug\02NumbersNotDivisibleBy3And 7.exe.config
+D:\DomashniVisualStudio\Homework-Loooops\02NumbersNotDivisibleBy3And 7\bin\Debug\02NumbersNotDivisibleBy3And 7.exe
+D:\DomashniVisualStudio\Homework-Loooops\02NumbersNotDivisibleBy3And 7\bin\Debug\02NumbersNotDivisibleBy3And 7.pdb
+D:\DomashniVisualStudio\Homework-Loooops\02NumbersNotDivisibleBy3And 7\obj\Debug\02NumbersNotDivisibleBy3And 7.exe
+D:\DomashniVisualStudio\Homework-Loooops\02NumbersNotDivisibleBy3And 7\obj\Debug\02NumbersNotDivisibleBy3And 7.pdb

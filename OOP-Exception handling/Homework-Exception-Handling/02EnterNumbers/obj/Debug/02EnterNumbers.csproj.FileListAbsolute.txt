@@ -1,0 +1,11 @@
+D:\DomashniVisualStudio\Homework-Exception-Handling\02EnterNumbers\bin\Debug\02EnterNumbers.exe.config
+D:\DomashniVisualStudio\Homework-Exception-Handling\02EnterNumbers\bin\Debug\02EnterNumbers.exe
+D:\DomashniVisualStudio\Homework-Exception-Handling\02EnterNumbers\bin\Debug\02EnterNumbers.pdb
+D:\DomashniVisualStudio\Homework-Exception-Handling\02EnterNumbers\obj\Debug\02EnterNumbers.exe
+D:\DomashniVisualStudio\Homework-Exception-Handling\02EnterNumbers\obj\Debug\02EnterNumbers.pdb
+C:\Users\myroom1\Desktop\SoftuniC#\OOP-Exception handling\Homework-Exception-Handling\02EnterNumbers\bin\Debug\02EnterNumbers.exe.config
+C:\Users\myroom1\Desktop\SoftuniC#\OOP-Exception handling\Homework-Exception-Handling\02EnterNumbers\obj\Debug\02EnterNumbers.exe
+C:\Users\myroom1\Desktop\SoftuniC#\OOP-Exception handling\Homework-Exception-Handling\02EnterNumbers\obj\Debug\02EnterNumbers.pdb
+C:\Users\myroom1\Desktop\SoftuniC#\OOP-Exception handling\Homework-Exception-Handling\02EnterNumbers\bin\Debug\02EnterNumbers.exe
+C:\Users\myroom1\Desktop\SoftuniC#\OOP-Exception handling\Homework-Exception-Handling\02EnterNumbers\bin\Debug\02EnterNumbers.pdb
+C:\Users\myroom1\Desktop\SoftuniC#\OOP-Exception handling\Homework-Exception-Handling\02EnterNumbers\obj\Debug\02EnterNumbers.csprojResolveAssemblyReference.cache

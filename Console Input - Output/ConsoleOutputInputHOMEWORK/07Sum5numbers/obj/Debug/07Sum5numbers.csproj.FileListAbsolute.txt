@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\07Sum5numbers\bin\Debug\07Sum5numbers.exe.config
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\07Sum5numbers\bin\Debug\07Sum5numbers.exe
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\07Sum5numbers\bin\Debug\07Sum5numbers.pdb
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\07Sum5numbers\obj\Debug\07Sum5numbers.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\07Sum5numbers\obj\Debug\07Sum5numbers.exe
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\07Sum5numbers\obj\Debug\07Sum5numbers.pdb

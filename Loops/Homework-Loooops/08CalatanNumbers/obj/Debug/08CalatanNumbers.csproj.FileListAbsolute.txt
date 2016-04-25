@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\Homework-Loooops\08CalatanNumbers\bin\Debug\08CalatanNumbers.exe.config
+D:\DomashniVisualStudio\Homework-Loooops\08CalatanNumbers\bin\Debug\08CalatanNumbers.exe
+D:\DomashniVisualStudio\Homework-Loooops\08CalatanNumbers\bin\Debug\08CalatanNumbers.pdb
+D:\DomashniVisualStudio\Homework-Loooops\08CalatanNumbers\obj\Debug\08CalatanNumbers.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\Homework-Loooops\08CalatanNumbers\obj\Debug\08CalatanNumbers.exe
+D:\DomashniVisualStudio\Homework-Loooops\08CalatanNumbers\obj\Debug\08CalatanNumbers.pdb

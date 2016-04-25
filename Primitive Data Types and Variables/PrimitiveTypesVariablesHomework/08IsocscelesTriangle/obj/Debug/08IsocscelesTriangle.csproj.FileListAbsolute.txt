@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\08IsocscelesTriangle\bin\Debug\08IsocscelesTriangle.exe.config
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\08IsocscelesTriangle\bin\Debug\08IsocscelesTriangle.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\08IsocscelesTriangle\bin\Debug\08IsocscelesTriangle.pdb
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\08IsocscelesTriangle\obj\Debug\08IsocscelesTriangle.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\08IsocscelesTriangle\obj\Debug\08IsocscelesTriangle.pdb
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\08IsocscelesTriangle\obj\Debug\08IsocscelesTriangle.csprojResolveAssemblyReference.cache

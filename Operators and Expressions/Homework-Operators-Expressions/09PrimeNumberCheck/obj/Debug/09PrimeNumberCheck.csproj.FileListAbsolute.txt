@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\Homework-Operators-Expressions\09PrimeNumberCheck\bin\Debug\09PrimeNumberCheck.exe.config
+D:\DomashniVisualStudio\Homework-Operators-Expressions\09PrimeNumberCheck\bin\Debug\09PrimeNumberCheck.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\09PrimeNumberCheck\bin\Debug\09PrimeNumberCheck.pdb
+D:\DomashniVisualStudio\Homework-Operators-Expressions\09PrimeNumberCheck\obj\Debug\09PrimeNumberCheck.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\09PrimeNumberCheck\obj\Debug\09PrimeNumberCheck.pdb
+D:\DomashniVisualStudio\Homework-Operators-Expressions\09PrimeNumberCheck\obj\Debug\09PrimeNumberCheck.csprojResolveAssemblyReference.cache

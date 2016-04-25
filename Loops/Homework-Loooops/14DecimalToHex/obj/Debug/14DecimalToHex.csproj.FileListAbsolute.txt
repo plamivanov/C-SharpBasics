@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\Homework-Loooops\14DecimalToHex\bin\Debug\14DecimalToHex.exe.config
+D:\DomashniVisualStudio\Homework-Loooops\14DecimalToHex\bin\Debug\14DecimalToHex.exe
+D:\DomashniVisualStudio\Homework-Loooops\14DecimalToHex\bin\Debug\14DecimalToHex.pdb
+D:\DomashniVisualStudio\Homework-Loooops\14DecimalToHex\obj\Debug\14DecimalToHex.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\Homework-Loooops\14DecimalToHex\obj\Debug\14DecimalToHex.exe
+D:\DomashniVisualStudio\Homework-Loooops\14DecimalToHex\obj\Debug\14DecimalToHex.pdb

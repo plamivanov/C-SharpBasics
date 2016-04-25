@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\02PrintCompanyInfo\bin\Debug\02PrintCompanyInfo.exe.config
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\02PrintCompanyInfo\obj\Debug\02PrintCompanyInfo.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\02PrintCompanyInfo\bin\Debug\02PrintCompanyInfo.exe
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\02PrintCompanyInfo\bin\Debug\02PrintCompanyInfo.pdb
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\02PrintCompanyInfo\obj\Debug\02PrintCompanyInfo.exe
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\02PrintCompanyInfo\obj\Debug\02PrintCompanyInfo.pdb

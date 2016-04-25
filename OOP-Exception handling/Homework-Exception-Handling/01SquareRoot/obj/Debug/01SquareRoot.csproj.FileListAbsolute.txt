@@ -1,0 +1,8 @@
+D:\DomashniVisualStudio\Homework-Exception-Handling\01SquareRoot\bin\Debug\01SquareRoot.exe.config
+D:\DomashniVisualStudio\Homework-Exception-Handling\01SquareRoot\bin\Debug\01SquareRoot.exe
+D:\DomashniVisualStudio\Homework-Exception-Handling\01SquareRoot\bin\Debug\01SquareRoot.pdb
+D:\DomashniVisualStudio\Homework-Exception-Handling\01SquareRoot\obj\Debug\01SquareRoot.exe
+D:\DomashniVisualStudio\Homework-Exception-Handling\01SquareRoot\obj\Debug\01SquareRoot.pdb
+C:\Users\myroom1\Desktop\SoftuniC#\OOP-Exception handling\Homework-Exception-Handling\01SquareRoot\bin\Debug\01SquareRoot.exe.config
+C:\Users\myroom1\Desktop\SoftuniC#\OOP-Exception handling\Homework-Exception-Handling\01SquareRoot\obj\Debug\01SquareRoot.exe
+C:\Users\myroom1\Desktop\SoftuniC#\OOP-Exception handling\Homework-Exception-Handling\01SquareRoot\obj\Debug\01SquareRoot.pdb

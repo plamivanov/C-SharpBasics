@@ -1,0 +1,5 @@
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\02BonusScore\bin\Debug\02BonusScore.exe.config
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\02BonusScore\bin\Debug\02BonusScore.exe
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\02BonusScore\bin\Debug\02BonusScore.pdb
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\02BonusScore\obj\Debug\02BonusScore.exe
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\02BonusScore\obj\Debug\02BonusScore.pdb

@@ -1,0 +1,18 @@
+The distance between the following 3D points:
+34,45 , 20 , 30
+21 , 50,34 , 38,778
+15 , 68,34 , 38,712
+is : 53,3026517493811
+The distance between the following 3D points:
+21 , 50,34 , 38,778
+21 , 65,34 , 38,712
+is : 15,0001451992972
+The distance between the following 3D points:
+21 , 50,34 , 38,778
+21 , 65,34 , 38,712
+is : 15,0001451992972
+The distance between the following 3D points:
+25 , 159 , 243
+34 , 894 , 123
+2323 , 1233 , 2122
+is : 3802,63528294086

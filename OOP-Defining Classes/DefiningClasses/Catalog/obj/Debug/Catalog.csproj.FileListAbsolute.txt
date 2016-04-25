@@ -1,0 +1,7 @@
+D:\DomashniVisualStudio\DefiningClasses\Catalog\bin\Debug\Catalog.exe.config
+F:\New folder\DefiningClasses\Catalog\bin\Debug\Catalog.exe.config
+F:\New folder\DefiningClasses\Catalog\obj\Debug\Catalog.csprojResolveAssemblyReference.cache
+F:\New folder\DefiningClasses\Catalog\bin\Debug\Catalog.exe
+F:\New folder\DefiningClasses\Catalog\bin\Debug\Catalog.pdb
+F:\New folder\DefiningClasses\Catalog\obj\Debug\Catalog.exe
+F:\New folder\DefiningClasses\Catalog\obj\Debug\Catalog.pdb

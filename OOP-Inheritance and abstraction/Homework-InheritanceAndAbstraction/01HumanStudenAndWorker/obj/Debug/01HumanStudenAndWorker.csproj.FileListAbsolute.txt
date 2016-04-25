@@ -1,0 +1,9 @@
+c:\users\rumimeche\documents\visual studio 2013\Projects\Homework-InheritanceAndAbstraction\01HumanStudenAndWorker\bin\Debug\01HumanStudenAndWorker.exe.config
+c:\users\rumimeche\documents\visual studio 2013\Projects\Homework-InheritanceAndAbstraction\01HumanStudenAndWorker\obj\Debug\01HumanStudenAndWorker.csprojResolveAssemblyReference.cache
+c:\users\rumimeche\documents\visual studio 2013\Projects\Homework-InheritanceAndAbstraction\01HumanStudenAndWorker\bin\Debug\01HumanStudenAndWorker.exe
+c:\users\rumimeche\documents\visual studio 2013\Projects\Homework-InheritanceAndAbstraction\01HumanStudenAndWorker\bin\Debug\01HumanStudenAndWorker.pdb
+c:\users\rumimeche\documents\visual studio 2013\Projects\Homework-InheritanceAndAbstraction\01HumanStudenAndWorker\obj\Debug\01HumanStudenAndWorker.exe
+c:\users\rumimeche\documents\visual studio 2013\Projects\Homework-InheritanceAndAbstraction\01HumanStudenAndWorker\obj\Debug\01HumanStudenAndWorker.pdb
+C:\Users\myroom1\Desktop\SoftuniC#\OOP-Inheritance and abstraction\Homework-InheritanceAndAbstraction\01HumanStudenAndWorker\bin\Debug\01HumanStudenAndWorker.exe.config
+C:\Users\myroom1\Desktop\SoftuniC#\OOP-Inheritance and abstraction\Homework-InheritanceAndAbstraction\01HumanStudenAndWorker\obj\Debug\01HumanStudenAndWorker.exe
+C:\Users\myroom1\Desktop\SoftuniC#\OOP-Inheritance and abstraction\Homework-InheritanceAndAbstraction\01HumanStudenAndWorker\obj\Debug\01HumanStudenAndWorker.pdb

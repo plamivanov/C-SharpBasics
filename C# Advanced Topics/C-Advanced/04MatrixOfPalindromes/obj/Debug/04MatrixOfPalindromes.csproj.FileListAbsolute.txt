@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\C-Advanced\04MatrixOfPalindromes\bin\Debug\04MatrixOfPalindromes.exe.config
+D:\DomashniVisualStudio\C-Advanced\04MatrixOfPalindromes\bin\Debug\04MatrixOfPalindromes.exe
+D:\DomashniVisualStudio\C-Advanced\04MatrixOfPalindromes\bin\Debug\04MatrixOfPalindromes.pdb
+D:\DomashniVisualStudio\C-Advanced\04MatrixOfPalindromes\obj\Debug\04MatrixOfPalindromes.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\C-Advanced\04MatrixOfPalindromes\obj\Debug\04MatrixOfPalindromes.exe
+D:\DomashniVisualStudio\C-Advanced\04MatrixOfPalindromes\obj\Debug\04MatrixOfPalindromes.pdb

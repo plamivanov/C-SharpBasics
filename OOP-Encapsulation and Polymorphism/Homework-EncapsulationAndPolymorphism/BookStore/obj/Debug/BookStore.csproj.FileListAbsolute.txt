@@ -1,0 +1,12 @@
+F:\Poli\04. OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\bin\Debug\BookStore.exe.config
+F:\Poli\04. OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\bin\Debug\BookStore.exe
+F:\Poli\04. OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\bin\Debug\BookStore.pdb
+F:\Poli\04. OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache
+F:\Poli\04. OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\obj\Debug\BookStore.exe
+F:\Poli\04. OOP-Encapsulation-and-Polymorphism-Exercise-3\BookStore\obj\Debug\BookStore.pdb
+C:\Users\RumiMeche\Documents\Visual Studio 2013\Projects\Homework-EncapsulationAndPolymorphism\BookStore\bin\Debug\BookStore.exe.config
+C:\Users\RumiMeche\Documents\Visual Studio 2013\Projects\Homework-EncapsulationAndPolymorphism\BookStore\obj\Debug\BookStore.exe
+C:\Users\RumiMeche\Documents\Visual Studio 2013\Projects\Homework-EncapsulationAndPolymorphism\BookStore\obj\Debug\BookStore.pdb
+C:\Users\RumiMeche\Documents\Visual Studio 2013\Projects\Homework-EncapsulationAndPolymorphism\BookStore\bin\Debug\BookStore.exe
+C:\Users\RumiMeche\Documents\Visual Studio 2013\Projects\Homework-EncapsulationAndPolymorphism\BookStore\bin\Debug\BookStore.pdb
+C:\Users\RumiMeche\Documents\Visual Studio 2013\Projects\Homework-EncapsulationAndPolymorphism\BookStore\obj\Debug\BookStore.csprojResolveAssemblyReference.cache

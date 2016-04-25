@@ -1,0 +1,12 @@
+D:\DomashniVisualStudio\Homework-Operators-Expressions\15ModifyABitAtGivenPosition\bin\Debug\15ModifyABitAtGivenPosition.exe.config
+D:\DomashniVisualStudio\Homework-Operators-Expressions\15ModifyABitAtGivenPosition\bin\Debug\15ModifyABitAtGivenPosition.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\15ModifyABitAtGivenPosition\bin\Debug\15ModifyABitAtGivenPosition.pdb
+D:\DomashniVisualStudio\Homework-Operators-Expressions\15ModifyABitAtGivenPosition\obj\Debug\15ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\Homework-Operators-Expressions\15ModifyABitAtGivenPosition\obj\Debug\15ModifyABitAtGivenPosition.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\15ModifyABitAtGivenPosition\obj\Debug\15ModifyABitAtGivenPosition.pdb
+C:\Users\myroom1\Desktop\SoftuniC#\Operators and Expressions\Homework-Operators-Expressions\15ModifyABitAtGivenPosition\bin\Debug\15ModifyABitAtGivenPosition.exe.config
+C:\Users\myroom1\Desktop\SoftuniC#\Operators and Expressions\Homework-Operators-Expressions\15ModifyABitAtGivenPosition\obj\Debug\15ModifyABitAtGivenPosition.exe
+C:\Users\myroom1\Desktop\SoftuniC#\Operators and Expressions\Homework-Operators-Expressions\15ModifyABitAtGivenPosition\obj\Debug\15ModifyABitAtGivenPosition.pdb
+C:\Users\myroom1\Desktop\SoftuniC#\Operators and Expressions\Homework-Operators-Expressions\15ModifyABitAtGivenPosition\bin\Debug\15ModifyABitAtGivenPosition.exe
+C:\Users\myroom1\Desktop\SoftuniC#\Operators and Expressions\Homework-Operators-Expressions\15ModifyABitAtGivenPosition\bin\Debug\15ModifyABitAtGivenPosition.pdb
+C:\Users\myroom1\Desktop\SoftuniC#\Operators and Expressions\Homework-Operators-Expressions\15ModifyABitAtGivenPosition\obj\Debug\15ModifyABitAtGivenPosition.csprojResolveAssemblyReference.cache

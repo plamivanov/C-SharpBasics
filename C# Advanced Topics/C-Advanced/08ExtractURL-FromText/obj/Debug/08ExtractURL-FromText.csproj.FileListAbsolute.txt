@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\C-Advanced\08ExtractURL-FromText\bin\Debug\08ExtractURL-FromText.exe.config
+D:\DomashniVisualStudio\C-Advanced\08ExtractURL-FromText\obj\Debug\08ExtractURL-FromText.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\C-Advanced\08ExtractURL-FromText\bin\Debug\08ExtractURL-FromText.exe
+D:\DomashniVisualStudio\C-Advanced\08ExtractURL-FromText\bin\Debug\08ExtractURL-FromText.pdb
+D:\DomashniVisualStudio\C-Advanced\08ExtractURL-FromText\obj\Debug\08ExtractURL-FromText.exe
+D:\DomashniVisualStudio\C-Advanced\08ExtractURL-FromText\obj\Debug\08ExtractURL-FromText.pdb

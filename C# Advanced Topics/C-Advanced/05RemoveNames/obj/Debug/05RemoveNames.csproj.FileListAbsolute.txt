@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\C-Advanced\05RemoveNames\bin\Debug\05RemoveNames.exe.config
+D:\DomashniVisualStudio\C-Advanced\05RemoveNames\bin\Debug\05RemoveNames.exe
+D:\DomashniVisualStudio\C-Advanced\05RemoveNames\bin\Debug\05RemoveNames.pdb
+D:\DomashniVisualStudio\C-Advanced\05RemoveNames\obj\Debug\05RemoveNames.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\C-Advanced\05RemoveNames\obj\Debug\05RemoveNames.exe
+D:\DomashniVisualStudio\C-Advanced\05RemoveNames\obj\Debug\05RemoveNames.pdb

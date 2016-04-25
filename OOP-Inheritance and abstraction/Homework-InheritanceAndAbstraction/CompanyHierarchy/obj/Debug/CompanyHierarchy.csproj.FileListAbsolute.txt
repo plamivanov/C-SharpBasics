@@ -1,0 +1,12 @@
+C:\Users\RumiMeche\Documents\Visual Studio 2013\Projects\Homework-InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe.config
+C:\Users\RumiMeche\Documents\Visual Studio 2013\Projects\Homework-InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\RumiMeche\Documents\Visual Studio 2013\Projects\Homework-InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe
+C:\Users\RumiMeche\Documents\Visual Studio 2013\Projects\Homework-InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.pdb
+C:\Users\RumiMeche\Documents\Visual Studio 2013\Projects\Homework-InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.exe
+C:\Users\RumiMeche\Documents\Visual Studio 2013\Projects\Homework-InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.pdb
+C:\Users\myroom1\Desktop\SoftuniC#\OOP-Inheritance and abstraction\Homework-InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe.config
+C:\Users\myroom1\Desktop\SoftuniC#\OOP-Inheritance and abstraction\Homework-InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.exe
+C:\Users\myroom1\Desktop\SoftuniC#\OOP-Inheritance and abstraction\Homework-InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.pdb
+C:\Users\myroom1\Desktop\SoftuniC#\OOP-Inheritance and abstraction\Homework-InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.exe
+C:\Users\myroom1\Desktop\SoftuniC#\OOP-Inheritance and abstraction\Homework-InheritanceAndAbstraction\CompanyHierarchy\bin\Debug\CompanyHierarchy.pdb
+C:\Users\myroom1\Desktop\SoftuniC#\OOP-Inheritance and abstraction\Homework-InheritanceAndAbstraction\CompanyHierarchy\obj\Debug\CompanyHierarchy.csprojResolveAssemblyReference.cache

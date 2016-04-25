@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\11BankAccountData\bin\Debug\11BankAccountData.exe.config
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\11BankAccountData\bin\Debug\11BankAccountData.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\11BankAccountData\bin\Debug\11BankAccountData.pdb
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\11BankAccountData\obj\Debug\11BankAccountData.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\11BankAccountData\obj\Debug\11BankAccountData.pdb

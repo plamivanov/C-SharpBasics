@@ -1,0 +1,9 @@
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\01DeclareVariables\bin\Debug\01DeclareVariables.exe.config
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\01DeclareVariables\bin\Debug\01DeclareVariables.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\01DeclareVariables\bin\Debug\01DeclareVariables.pdb
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\01DeclareVariables\obj\Debug\01DeclareVariables.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\01DeclareVariables\obj\Debug\01DeclareVariables.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\01DeclareVariables\obj\Debug\01DeclareVariables.pdb
+C:\Users\plamen\Desktop\PrimitiveTypesVariablesHomework\01DeclareVariables\bin\Debug\01DeclareVariables.exe.config
+C:\Users\plamen\Desktop\PrimitiveTypesVariablesHomework\01DeclareVariables\obj\Debug\01DeclareVariables.exe
+C:\Users\plamen\Desktop\PrimitiveTypesVariablesHomework\01DeclareVariables\obj\Debug\01DeclareVariables.pdb

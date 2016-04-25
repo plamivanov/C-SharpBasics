@@ -1,0 +1,12 @@
+D:\DomashniVisualStudio\DefiningClasses\01Persons\bin\Debug\01Persons.exe.config
+D:\DomashniVisualStudio\DefiningClasses\01Persons\bin\Debug\01Persons.exe
+D:\DomashniVisualStudio\DefiningClasses\01Persons\bin\Debug\01Persons.pdb
+D:\DomashniVisualStudio\DefiningClasses\01Persons\obj\Debug\01Persons.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\DefiningClasses\01Persons\obj\Debug\01Persons.exe
+D:\DomashniVisualStudio\DefiningClasses\01Persons\obj\Debug\01Persons.pdb
+F:\New folder\DefiningClasses\01Persons\bin\Debug\01Persons.exe.config
+F:\New folder\DefiningClasses\01Persons\obj\Debug\01Persons.exe
+F:\New folder\DefiningClasses\01Persons\obj\Debug\01Persons.pdb
+F:\New folder\DefiningClasses\01Persons\bin\Debug\01Persons.exe
+F:\New folder\DefiningClasses\01Persons\bin\Debug\01Persons.pdb
+F:\New folder\DefiningClasses\01Persons\obj\Debug\01Persons.csprojResolveAssemblyReference.cache

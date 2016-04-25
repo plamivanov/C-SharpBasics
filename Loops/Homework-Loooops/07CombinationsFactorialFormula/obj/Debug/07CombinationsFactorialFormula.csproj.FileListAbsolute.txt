@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\Homework-Loooops\07CombinationsFactorialFormula\bin\Debug\07CombinationsFactorialFormula.exe.config
+D:\DomashniVisualStudio\Homework-Loooops\07CombinationsFactorialFormula\bin\Debug\07CombinationsFactorialFormula.exe
+D:\DomashniVisualStudio\Homework-Loooops\07CombinationsFactorialFormula\bin\Debug\07CombinationsFactorialFormula.pdb
+D:\DomashniVisualStudio\Homework-Loooops\07CombinationsFactorialFormula\obj\Debug\07CombinationsFactorialFormula.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\Homework-Loooops\07CombinationsFactorialFormula\obj\Debug\07CombinationsFactorialFormula.exe
+D:\DomashniVisualStudio\Homework-Loooops\07CombinationsFactorialFormula\obj\Debug\07CombinationsFactorialFormula.pdb

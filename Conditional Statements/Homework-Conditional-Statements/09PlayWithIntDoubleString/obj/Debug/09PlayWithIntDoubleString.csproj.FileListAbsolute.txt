@@ -1,0 +1,5 @@
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\09PlayWithIntDoubleString\bin\Debug\09PlayWithIntDoubleString.exe.config
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\09PlayWithIntDoubleString\bin\Debug\09PlayWithIntDoubleString.exe
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\09PlayWithIntDoubleString\bin\Debug\09PlayWithIntDoubleString.pdb
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\09PlayWithIntDoubleString\obj\Debug\09PlayWithIntDoubleString.exe
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\09PlayWithIntDoubleString\obj\Debug\09PlayWithIntDoubleString.pdb

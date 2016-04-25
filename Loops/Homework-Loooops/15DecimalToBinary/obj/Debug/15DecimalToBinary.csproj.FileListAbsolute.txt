@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\Homework-Loooops\15DecimalToBinary\bin\Debug\15DecimalToBinary.exe.config
+D:\DomashniVisualStudio\Homework-Loooops\15DecimalToBinary\bin\Debug\15DecimalToBinary.exe
+D:\DomashniVisualStudio\Homework-Loooops\15DecimalToBinary\bin\Debug\15DecimalToBinary.pdb
+D:\DomashniVisualStudio\Homework-Loooops\15DecimalToBinary\obj\Debug\15DecimalToBinary.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\Homework-Loooops\15DecimalToBinary\obj\Debug\15DecimalToBinary.exe
+D:\DomashniVisualStudio\Homework-Loooops\15DecimalToBinary\obj\Debug\15DecimalToBinary.pdb

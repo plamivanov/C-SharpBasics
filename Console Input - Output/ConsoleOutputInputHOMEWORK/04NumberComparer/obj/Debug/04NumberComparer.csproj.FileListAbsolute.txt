@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\04NumberComparer\bin\Debug\04NumberComparer.exe.config
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\04NumberComparer\bin\Debug\04NumberComparer.exe
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\04NumberComparer\bin\Debug\04NumberComparer.pdb
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\04NumberComparer\obj\Debug\04NumberComparer.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\04NumberComparer\obj\Debug\04NumberComparer.exe
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\04NumberComparer\obj\Debug\04NumberComparer.pdb

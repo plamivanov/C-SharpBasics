@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\05BoolVariable\bin\Debug\05BoolVariable.exe.config
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\05BoolVariable\bin\Debug\05BoolVariable.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\05BoolVariable\bin\Debug\05BoolVariable.pdb
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\05BoolVariable\obj\Debug\05BoolVariable.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\05BoolVariable\obj\Debug\05BoolVariable.pdb

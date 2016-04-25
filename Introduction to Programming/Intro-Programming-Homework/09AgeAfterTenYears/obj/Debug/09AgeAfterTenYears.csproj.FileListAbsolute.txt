@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\Intro-Programming-Homework\09AgeAfterTenYears\bin\Debug\09AgeAfterTenYears.exe.config
+D:\DomashniVisualStudio\Intro-Programming-Homework\09AgeAfterTenYears\bin\Debug\09AgeAfterTenYears.exe
+D:\DomashniVisualStudio\Intro-Programming-Homework\09AgeAfterTenYears\bin\Debug\09AgeAfterTenYears.pdb
+D:\DomashniVisualStudio\Intro-Programming-Homework\09AgeAfterTenYears\obj\Debug\09AgeAfterTenYears.exe
+D:\DomashniVisualStudio\Intro-Programming-Homework\09AgeAfterTenYears\obj\Debug\09AgeAfterTenYears.pdb

@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\Homework-Operators-Expressions\07PointInACircle\bin\Debug\07PointInACircle.exe.config
+D:\DomashniVisualStudio\Homework-Operators-Expressions\07PointInACircle\bin\Debug\07PointInACircle.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\07PointInACircle\bin\Debug\07PointInACircle.pdb
+D:\DomashniVisualStudio\Homework-Operators-Expressions\07PointInACircle\obj\Debug\07PointInACircle.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\Homework-Operators-Expressions\07PointInACircle\obj\Debug\07PointInACircle.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\07PointInACircle\obj\Debug\07PointInACircle.pdb

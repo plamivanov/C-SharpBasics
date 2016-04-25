@@ -1,0 +1,9 @@
+D:\DomashniVisualStudio\Homework-Operators-Expressions\01OddOrEven\bin\Debug\01OddOrEven.exe.config
+D:\DomashniVisualStudio\Homework-Operators-Expressions\01OddOrEven\bin\Debug\01OddOrEven.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\01OddOrEven\bin\Debug\01OddOrEven.pdb
+D:\DomashniVisualStudio\Homework-Operators-Expressions\01OddOrEven\obj\Debug\01OddOrEven.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\Homework-Operators-Expressions\01OddOrEven\obj\Debug\01OddOrEven.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\01OddOrEven\obj\Debug\01OddOrEven.pdb
+C:\Users\myroom1\Desktop\SoftuniC#\Operators and Expressions\Homework-Operators-Expressions\01OddOrEven\bin\Debug\01OddOrEven.exe.config
+C:\Users\myroom1\Desktop\SoftuniC#\Operators and Expressions\Homework-Operators-Expressions\01OddOrEven\obj\Debug\01OddOrEven.exe
+C:\Users\myroom1\Desktop\SoftuniC#\Operators and Expressions\Homework-Operators-Expressions\01OddOrEven\obj\Debug\01OddOrEven.pdb

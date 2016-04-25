@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\Intro-Programming-Homework\05SquareRoot\bin\Debug\05SquareRoot.exe.config
+D:\DomashniVisualStudio\Intro-Programming-Homework\05SquareRoot\bin\Debug\05SquareRoot.exe
+D:\DomashniVisualStudio\Intro-Programming-Homework\05SquareRoot\bin\Debug\05SquareRoot.pdb
+D:\DomashniVisualStudio\Intro-Programming-Homework\05SquareRoot\obj\Debug\05SquareRoot.exe
+D:\DomashniVisualStudio\Intro-Programming-Homework\05SquareRoot\obj\Debug\05SquareRoot.pdb
+D:\DomashniVisualStudio\Intro-Programming-Homework\05SquareRoot\obj\Debug\05SquareRoot.csprojResolveAssemblyReference.cache

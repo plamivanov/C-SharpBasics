@@ -1,0 +1,6 @@
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe.config
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\04MultiplicationSign\bin\Debug\04MultiplicationSign.exe
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\04MultiplicationSign\bin\Debug\04MultiplicationSign.pdb
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\04MultiplicationSign\obj\Debug\04MultiplicationSign.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\04MultiplicationSign\obj\Debug\04MultiplicationSign.exe
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\04MultiplicationSign\obj\Debug\04MultiplicationSign.pdb

@@ -1,0 +1,6 @@
+c:\users\rumimeche\documents\visual studio 2013\Projects\Homework-EncapsulationAndPolymorphism\01Shapes\bin\Debug\01Shapes.exe.config
+c:\users\rumimeche\documents\visual studio 2013\Projects\Homework-EncapsulationAndPolymorphism\01Shapes\obj\Debug\01Shapes.csprojResolveAssemblyReference.cache
+c:\users\rumimeche\documents\visual studio 2013\Projects\Homework-EncapsulationAndPolymorphism\01Shapes\bin\Debug\01Shapes.exe
+c:\users\rumimeche\documents\visual studio 2013\Projects\Homework-EncapsulationAndPolymorphism\01Shapes\bin\Debug\01Shapes.pdb
+c:\users\rumimeche\documents\visual studio 2013\Projects\Homework-EncapsulationAndPolymorphism\01Shapes\obj\Debug\01Shapes.exe
+c:\users\rumimeche\documents\visual studio 2013\Projects\Homework-EncapsulationAndPolymorphism\01Shapes\obj\Debug\01Shapes.pdb

@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\C-Advanced\04MatrixOfPaledromes\bin\Debug\04MatrixOfPaledromes.exe.config
+D:\DomashniVisualStudio\C-Advanced\04MatrixOfPaledromes\obj\Debug\04MatrixOfPaledromes.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\C-Advanced\04MatrixOfPaledromes\bin\Debug\04MatrixOfPaledromes.exe
+D:\DomashniVisualStudio\C-Advanced\04MatrixOfPaledromes\bin\Debug\04MatrixOfPaledromes.pdb
+D:\DomashniVisualStudio\C-Advanced\04MatrixOfPaledromes\obj\Debug\04MatrixOfPaledromes.exe
+D:\DomashniVisualStudio\C-Advanced\04MatrixOfPaledromes\obj\Debug\04MatrixOfPaledromes.pdb

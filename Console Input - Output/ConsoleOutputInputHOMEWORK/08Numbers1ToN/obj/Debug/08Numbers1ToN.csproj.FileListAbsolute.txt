@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\08Numbers1ToN\bin\Debug\08Numbers1ToN.exe.config
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\08Numbers1ToN\bin\Debug\08Numbers1ToN.exe
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\08Numbers1ToN\bin\Debug\08Numbers1ToN.pdb
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\08Numbers1ToN\obj\Debug\08Numbers1ToN.exe
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\08Numbers1ToN\obj\Debug\08Numbers1ToN.pdb

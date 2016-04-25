@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\03VarialbleInHexFormat\bin\Debug\03VarialbleInHexFormat.exe.config
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\03VarialbleInHexFormat\bin\Debug\03VarialbleInHexFormat.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\03VarialbleInHexFormat\bin\Debug\03VarialbleInHexFormat.pdb
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\03VarialbleInHexFormat\obj\Debug\03VarialbleInHexFormat.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\03VarialbleInHexFormat\obj\Debug\03VarialbleInHexFormat.pdb

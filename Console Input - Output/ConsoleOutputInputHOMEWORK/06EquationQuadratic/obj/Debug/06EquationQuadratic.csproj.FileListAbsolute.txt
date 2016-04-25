@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\06EquationQuadratic\bin\Debug\06EquationQuadratic.exe.config
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\06EquationQuadratic\bin\Debug\06EquationQuadratic.exe
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\06EquationQuadratic\bin\Debug\06EquationQuadratic.pdb
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\06EquationQuadratic\obj\Debug\06EquationQuadratic.exe
+D:\DomashniVisualStudio\ConsoleOutputInputHOMEWORK\06EquationQuadratic\obj\Debug\06EquationQuadratic.pdb

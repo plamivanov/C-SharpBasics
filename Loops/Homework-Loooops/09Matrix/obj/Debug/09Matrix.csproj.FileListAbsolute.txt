@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\Homework-Loooops\09Matrix\bin\Debug\09Matrix.exe.config
+D:\DomashniVisualStudio\Homework-Loooops\09Matrix\bin\Debug\09Matrix.exe
+D:\DomashniVisualStudio\Homework-Loooops\09Matrix\bin\Debug\09Matrix.pdb
+D:\DomashniVisualStudio\Homework-Loooops\09Matrix\obj\Debug\09Matrix.exe
+D:\DomashniVisualStudio\Homework-Loooops\09Matrix\obj\Debug\09Matrix.pdb

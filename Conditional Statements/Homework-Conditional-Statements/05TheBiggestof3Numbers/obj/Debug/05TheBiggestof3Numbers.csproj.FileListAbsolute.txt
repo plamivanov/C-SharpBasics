@@ -1,0 +1,5 @@
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\05TheBiggestof3Numbers\bin\Debug\05TheBiggestof3Numbers.exe.config
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\05TheBiggestof3Numbers\bin\Debug\05TheBiggestof3Numbers.exe
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\05TheBiggestof3Numbers\bin\Debug\05TheBiggestof3Numbers.pdb
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\05TheBiggestof3Numbers\obj\Debug\05TheBiggestof3Numbers.exe
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\05TheBiggestof3Numbers\obj\Debug\05TheBiggestof3Numbers.pdb

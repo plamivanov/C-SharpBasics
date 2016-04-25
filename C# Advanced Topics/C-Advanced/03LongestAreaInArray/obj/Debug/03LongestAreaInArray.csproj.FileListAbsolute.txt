@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\C-Advanced\03LongestAreaInArray\bin\Debug\03LongestAreaInArray.exe.config
+D:\DomashniVisualStudio\C-Advanced\03LongestAreaInArray\bin\Debug\03LongestAreaInArray.exe
+D:\DomashniVisualStudio\C-Advanced\03LongestAreaInArray\bin\Debug\03LongestAreaInArray.pdb
+D:\DomashniVisualStudio\C-Advanced\03LongestAreaInArray\obj\Debug\03LongestAreaInArray.exe
+D:\DomashniVisualStudio\C-Advanced\03LongestAreaInArray\obj\Debug\03LongestAreaInArray.pdb
+D:\DomashniVisualStudio\C-Advanced\03LongestAreaInArray\obj\Debug\03LongestAreaInArray.csprojResolveAssemblyReference.cache

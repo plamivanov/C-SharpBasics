@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\Homework-Operators-Expressions\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe.config
+D:\DomashniVisualStudio\Homework-Operators-Expressions\06FourDigitNumber\bin\Debug\06FourDigitNumber.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\06FourDigitNumber\bin\Debug\06FourDigitNumber.pdb
+D:\DomashniVisualStudio\Homework-Operators-Expressions\06FourDigitNumber\obj\Debug\06FourDigitNumber.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\06FourDigitNumber\obj\Debug\06FourDigitNumber.pdb

@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\02DoubleOrFloat\bin\Debug\02DoubleOrFloat.exe.config
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\02DoubleOrFloat\bin\Debug\02DoubleOrFloat.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\02DoubleOrFloat\bin\Debug\02DoubleOrFloat.pdb
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\02DoubleOrFloat\obj\Debug\02DoubleOrFloat.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\02DoubleOrFloat\obj\Debug\02DoubleOrFloat.pdb

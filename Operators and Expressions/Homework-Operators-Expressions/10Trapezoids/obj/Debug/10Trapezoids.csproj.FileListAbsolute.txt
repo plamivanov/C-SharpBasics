@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\Homework-Operators-Expressions\10Trapezoids\bin\Debug\10Trapezoids.exe.config
+D:\DomashniVisualStudio\Homework-Operators-Expressions\10Trapezoids\bin\Debug\10Trapezoids.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\10Trapezoids\bin\Debug\10Trapezoids.pdb
+D:\DomashniVisualStudio\Homework-Operators-Expressions\10Trapezoids\obj\Debug\10Trapezoids.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\Homework-Operators-Expressions\10Trapezoids\obj\Debug\10Trapezoids.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\10Trapezoids\obj\Debug\10Trapezoids.pdb

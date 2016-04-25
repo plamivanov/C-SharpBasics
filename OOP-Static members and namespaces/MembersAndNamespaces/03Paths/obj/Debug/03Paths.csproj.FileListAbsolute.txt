@@ -1,0 +1,10 @@
+D:\DomashniVisualStudio\MembersAndNamespaces\03Paths\bin\Debug\03Paths.exe.config
+D:\DomashniVisualStudio\MembersAndNamespaces\03Paths\bin\Debug\03Paths.exe
+D:\DomashniVisualStudio\MembersAndNamespaces\03Paths\bin\Debug\03Paths.pdb
+D:\DomashniVisualStudio\MembersAndNamespaces\03Paths\bin\Debug\01Point3D.exe
+D:\DomashniVisualStudio\MembersAndNamespaces\03Paths\bin\Debug\02DistanceCalculator.exe
+D:\DomashniVisualStudio\MembersAndNamespaces\03Paths\bin\Debug\01Point3D.pdb
+D:\DomashniVisualStudio\MembersAndNamespaces\03Paths\bin\Debug\02DistanceCalculator.pdb
+D:\DomashniVisualStudio\MembersAndNamespaces\03Paths\obj\Debug\03Paths.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\MembersAndNamespaces\03Paths\obj\Debug\03Paths.exe
+D:\DomashniVisualStudio\MembersAndNamespaces\03Paths\obj\Debug\03Paths.pdb

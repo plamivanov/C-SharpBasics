@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\C-Advanced\07LongestWordInText\bin\Debug\07LongestWordInText.exe.config
+D:\DomashniVisualStudio\C-Advanced\07LongestWordInText\bin\Debug\07LongestWordInText.exe
+D:\DomashniVisualStudio\C-Advanced\07LongestWordInText\bin\Debug\07LongestWordInText.pdb
+D:\DomashniVisualStudio\C-Advanced\07LongestWordInText\obj\Debug\07LongestWordInText.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\C-Advanced\07LongestWordInText\obj\Debug\07LongestWordInText.exe
+D:\DomashniVisualStudio\C-Advanced\07LongestWordInText\obj\Debug\07LongestWordInText.pdb

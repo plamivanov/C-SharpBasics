@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\Homework-Loooops\05XandNandFactorial\bin\Debug\05XandNandFactorial.exe.config
+D:\DomashniVisualStudio\Homework-Loooops\05XandNandFactorial\bin\Debug\05XandNandFactorial.exe
+D:\DomashniVisualStudio\Homework-Loooops\05XandNandFactorial\bin\Debug\05XandNandFactorial.pdb
+D:\DomashniVisualStudio\Homework-Loooops\05XandNandFactorial\obj\Debug\05XandNandFactorial.exe
+D:\DomashniVisualStudio\Homework-Loooops\05XandNandFactorial\obj\Debug\05XandNandFactorial.pdb
+D:\DomashniVisualStudio\Homework-Loooops\05XandNandFactorial\obj\Debug\05XandNandFactorial.csprojResolveAssemblyReference.cache

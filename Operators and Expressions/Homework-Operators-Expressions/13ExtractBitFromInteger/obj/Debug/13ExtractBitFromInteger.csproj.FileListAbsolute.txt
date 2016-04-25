@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\Homework-Operators-Expressions\13ExtractBitFromInteger\bin\Debug\13ExtractBitFromInteger.exe.config
+D:\DomashniVisualStudio\Homework-Operators-Expressions\13ExtractBitFromInteger\bin\Debug\13ExtractBitFromInteger.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\13ExtractBitFromInteger\bin\Debug\13ExtractBitFromInteger.pdb
+D:\DomashniVisualStudio\Homework-Operators-Expressions\13ExtractBitFromInteger\obj\Debug\13ExtractBitFromInteger.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\13ExtractBitFromInteger\obj\Debug\13ExtractBitFromInteger.pdb

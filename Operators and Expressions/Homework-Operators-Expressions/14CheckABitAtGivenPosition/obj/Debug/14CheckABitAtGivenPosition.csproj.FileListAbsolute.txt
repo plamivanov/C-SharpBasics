@@ -1,0 +1,8 @@
+D:\DomashniVisualStudio\Homework-Operators-Expressions\14CheckABitAtGivenPosition\bin\Debug\14CheckABitAtGivenPosition.exe.config
+D:\DomashniVisualStudio\Homework-Operators-Expressions\14CheckABitAtGivenPosition\bin\Debug\14CheckABitAtGivenPosition.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\14CheckABitAtGivenPosition\bin\Debug\14CheckABitAtGivenPosition.pdb
+D:\DomashniVisualStudio\Homework-Operators-Expressions\14CheckABitAtGivenPosition\obj\Debug\14CheckABitAtGivenPosition.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\14CheckABitAtGivenPosition\obj\Debug\14CheckABitAtGivenPosition.pdb
+C:\Users\myroom1\Desktop\SoftuniC#\Operators and Expressions\Homework-Operators-Expressions\14CheckABitAtGivenPosition\bin\Debug\14CheckABitAtGivenPosition.exe.config
+C:\Users\myroom1\Desktop\SoftuniC#\Operators and Expressions\Homework-Operators-Expressions\14CheckABitAtGivenPosition\obj\Debug\14CheckABitAtGivenPosition.exe
+C:\Users\myroom1\Desktop\SoftuniC#\Operators and Expressions\Homework-Operators-Expressions\14CheckABitAtGivenPosition\obj\Debug\14CheckABitAtGivenPosition.pdb

@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\Intro-Programming-Homework\10PrintLongSequence\bin\Debug\10PrintLongSequence.exe.config
+D:\DomashniVisualStudio\Intro-Programming-Homework\10PrintLongSequence\bin\Debug\10PrintLongSequence.exe
+D:\DomashniVisualStudio\Intro-Programming-Homework\10PrintLongSequence\bin\Debug\10PrintLongSequence.pdb
+D:\DomashniVisualStudio\Intro-Programming-Homework\10PrintLongSequence\obj\Debug\10PrintLongSequence.exe
+D:\DomashniVisualStudio\Intro-Programming-Homework\10PrintLongSequence\obj\Debug\10PrintLongSequence.pdb

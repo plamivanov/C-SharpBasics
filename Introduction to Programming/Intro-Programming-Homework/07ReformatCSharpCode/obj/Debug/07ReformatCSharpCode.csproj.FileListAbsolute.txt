@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\Intro-Programming-Homework\07ReformatCSharpCode\bin\Debug\07ReformatCSharpCode.exe.config
+D:\DomashniVisualStudio\Intro-Programming-Homework\07ReformatCSharpCode\bin\Debug\07ReformatCSharpCode.exe
+D:\DomashniVisualStudio\Intro-Programming-Homework\07ReformatCSharpCode\bin\Debug\07ReformatCSharpCode.pdb
+D:\DomashniVisualStudio\Intro-Programming-Homework\07ReformatCSharpCode\obj\Debug\07ReformatCSharpCode.exe
+D:\DomashniVisualStudio\Intro-Programming-Homework\07ReformatCSharpCode\obj\Debug\07ReformatCSharpCode.pdb

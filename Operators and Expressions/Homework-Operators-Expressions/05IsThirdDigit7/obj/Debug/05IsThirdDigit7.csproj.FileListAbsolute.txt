@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\Homework-Operators-Expressions\05IsThirdDigit7\bin\Debug\05IsThirdDigit7.exe.config
+D:\DomashniVisualStudio\Homework-Operators-Expressions\05IsThirdDigit7\bin\Debug\05IsThirdDigit7.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\05IsThirdDigit7\bin\Debug\05IsThirdDigit7.pdb
+D:\DomashniVisualStudio\Homework-Operators-Expressions\05IsThirdDigit7\obj\Debug\05IsThirdDigit7.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\05IsThirdDigit7\obj\Debug\05IsThirdDigit7.pdb

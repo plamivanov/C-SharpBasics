@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\C-Advanced\01DifferenceBetweenDates\bin\Debug\01DifferenceBetweenDates.exe.config
+D:\DomashniVisualStudio\C-Advanced\01DifferenceBetweenDates\bin\Debug\01DifferenceBetweenDates.exe
+D:\DomashniVisualStudio\C-Advanced\01DifferenceBetweenDates\bin\Debug\01DifferenceBetweenDates.pdb
+D:\DomashniVisualStudio\C-Advanced\01DifferenceBetweenDates\obj\Debug\01DifferenceBetweenDates.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\C-Advanced\01DifferenceBetweenDates\obj\Debug\01DifferenceBetweenDates.exe
+D:\DomashniVisualStudio\C-Advanced\01DifferenceBetweenDates\obj\Debug\01DifferenceBetweenDates.pdb

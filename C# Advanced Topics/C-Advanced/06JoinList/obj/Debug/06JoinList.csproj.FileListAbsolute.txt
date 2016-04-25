@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\C-Advanced\06JoinList\bin\Debug\06JoinList.exe.config
+D:\DomashniVisualStudio\C-Advanced\06JoinList\bin\Debug\06JoinList.exe
+D:\DomashniVisualStudio\C-Advanced\06JoinList\bin\Debug\06JoinList.pdb
+D:\DomashniVisualStudio\C-Advanced\06JoinList\obj\Debug\06JoinList.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\C-Advanced\06JoinList\obj\Debug\06JoinList.exe
+D:\DomashniVisualStudio\C-Advanced\06JoinList\obj\Debug\06JoinList.pdb

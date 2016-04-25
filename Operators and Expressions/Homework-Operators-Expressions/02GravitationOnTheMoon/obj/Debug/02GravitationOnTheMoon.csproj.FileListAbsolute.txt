@@ -1,0 +1,11 @@
+D:\DomashniVisualStudio\Homework-Operators-Expressions\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.exe.config
+D:\DomashniVisualStudio\Homework-Operators-Expressions\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.pdb
+D:\DomashniVisualStudio\Homework-Operators-Expressions\02GravitationOnTheMoon\obj\Debug\02GravitationOnTheMoon.exe
+D:\DomashniVisualStudio\Homework-Operators-Expressions\02GravitationOnTheMoon\obj\Debug\02GravitationOnTheMoon.pdb
+C:\Users\myroom1\Desktop\SoftuniC#\Operators and Expressions\Homework-Operators-Expressions\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.exe.config
+C:\Users\myroom1\Desktop\SoftuniC#\Operators and Expressions\Homework-Operators-Expressions\02GravitationOnTheMoon\obj\Debug\02GravitationOnTheMoon.exe
+C:\Users\myroom1\Desktop\SoftuniC#\Operators and Expressions\Homework-Operators-Expressions\02GravitationOnTheMoon\obj\Debug\02GravitationOnTheMoon.pdb
+C:\Users\myroom1\Desktop\SoftuniC#\Operators and Expressions\Homework-Operators-Expressions\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.exe
+C:\Users\myroom1\Desktop\SoftuniC#\Operators and Expressions\Homework-Operators-Expressions\02GravitationOnTheMoon\bin\Debug\02GravitationOnTheMoon.pdb
+C:\Users\myroom1\Desktop\SoftuniC#\Operators and Expressions\Homework-Operators-Expressions\02GravitationOnTheMoon\obj\Debug\02GravitationOnTheMoon.csprojResolveAssemblyReference.cache

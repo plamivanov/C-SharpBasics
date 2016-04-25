@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\10EmployeeData\bin\Debug\10EmployeeData.exe.config
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\10EmployeeData\bin\Debug\10EmployeeData.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\10EmployeeData\bin\Debug\10EmployeeData.pdb
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\10EmployeeData\obj\Debug\10EmployeeData.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\10EmployeeData\obj\Debug\10EmployeeData.pdb

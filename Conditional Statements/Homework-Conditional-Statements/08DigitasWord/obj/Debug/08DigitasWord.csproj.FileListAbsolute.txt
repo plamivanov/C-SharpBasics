@@ -1,0 +1,5 @@
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\08DigitasWord\bin\Debug\08DigitasWord.exe.config
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\08DigitasWord\bin\Debug\08DigitasWord.exe
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\08DigitasWord\bin\Debug\08DigitasWord.pdb
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\08DigitasWord\obj\Debug\08DigitasWord.exe
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\08DigitasWord\obj\Debug\08DigitasWord.pdb

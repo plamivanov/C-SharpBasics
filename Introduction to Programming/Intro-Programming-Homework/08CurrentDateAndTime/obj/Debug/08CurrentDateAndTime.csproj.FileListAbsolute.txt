@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\Intro-Programming-Homework\08CurrentDateAndTime\bin\Debug\08CurrentDateAndTime.exe.config
+D:\DomashniVisualStudio\Intro-Programming-Homework\08CurrentDateAndTime\bin\Debug\08CurrentDateAndTime.exe
+D:\DomashniVisualStudio\Intro-Programming-Homework\08CurrentDateAndTime\bin\Debug\08CurrentDateAndTime.pdb
+D:\DomashniVisualStudio\Intro-Programming-Homework\08CurrentDateAndTime\obj\Debug\08CurrentDateAndTime.exe
+D:\DomashniVisualStudio\Intro-Programming-Homework\08CurrentDateAndTime\obj\Debug\08CurrentDateAndTime.pdb

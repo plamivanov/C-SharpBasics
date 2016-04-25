@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\Homework-Loooops\10OddAndEven\bin\Debug\10OddAndEven.exe.config
+D:\DomashniVisualStudio\Homework-Loooops\10OddAndEven\bin\Debug\10OddAndEven.exe
+D:\DomashniVisualStudio\Homework-Loooops\10OddAndEven\bin\Debug\10OddAndEven.pdb
+D:\DomashniVisualStudio\Homework-Loooops\10OddAndEven\obj\Debug\10OddAndEven.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\Homework-Loooops\10OddAndEven\obj\Debug\10OddAndEven.exe
+D:\DomashniVisualStudio\Homework-Loooops\10OddAndEven\obj\Debug\10OddAndEven.pdb

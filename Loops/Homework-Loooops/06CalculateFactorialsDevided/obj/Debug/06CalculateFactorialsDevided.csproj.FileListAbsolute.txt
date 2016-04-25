@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\Homework-Loooops\06CalculateFactorialsDevided\bin\Debug\06CalculateFactorialsDevided.exe.config
+D:\DomashniVisualStudio\Homework-Loooops\06CalculateFactorialsDevided\bin\Debug\06CalculateFactorialsDevided.exe
+D:\DomashniVisualStudio\Homework-Loooops\06CalculateFactorialsDevided\bin\Debug\06CalculateFactorialsDevided.pdb
+D:\DomashniVisualStudio\Homework-Loooops\06CalculateFactorialsDevided\obj\Debug\06CalculateFactorialsDevided.exe
+D:\DomashniVisualStudio\Homework-Loooops\06CalculateFactorialsDevided\obj\Debug\06CalculateFactorialsDevided.pdb
+D:\DomashniVisualStudio\Homework-Loooops\06CalculateFactorialsDevided\obj\Debug\06CalculateFactorialsDevided.csprojResolveAssemblyReference.cache

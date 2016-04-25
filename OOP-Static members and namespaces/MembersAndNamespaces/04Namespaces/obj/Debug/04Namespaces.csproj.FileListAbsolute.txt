@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\MembersAndNamespaces\04Namespaces\bin\Debug\Geometry.Geometry2D.exe.config
+D:\DomashniVisualStudio\MembersAndNamespaces\04Namespaces\bin\Debug\Geometry.Geometry2D.exe
+D:\DomashniVisualStudio\MembersAndNamespaces\04Namespaces\bin\Debug\Geometry.Geometry2D.pdb
+D:\DomashniVisualStudio\MembersAndNamespaces\04Namespaces\obj\Debug\Geometry.Geometry2D.exe
+D:\DomashniVisualStudio\MembersAndNamespaces\04Namespaces\obj\Debug\Geometry.Geometry2D.pdb
+D:\DomashniVisualStudio\MembersAndNamespaces\04Namespaces\obj\Debug\04Namespaces.csprojResolveAssemblyReference.cache

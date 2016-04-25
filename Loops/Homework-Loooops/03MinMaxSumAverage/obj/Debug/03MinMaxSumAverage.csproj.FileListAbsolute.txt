@@ -1,0 +1,6 @@
+D:\DomashniVisualStudio\Homework-Loooops\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.exe.config
+D:\DomashniVisualStudio\Homework-Loooops\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.exe
+D:\DomashniVisualStudio\Homework-Loooops\03MinMaxSumAverage\bin\Debug\03MinMaxSumAverage.pdb
+D:\DomashniVisualStudio\Homework-Loooops\03MinMaxSumAverage\obj\Debug\03MinMaxSumAverage.csprojResolveAssemblyReference.cache
+D:\DomashniVisualStudio\Homework-Loooops\03MinMaxSumAverage\obj\Debug\03MinMaxSumAverage.exe
+D:\DomashniVisualStudio\Homework-Loooops\03MinMaxSumAverage\obj\Debug\03MinMaxSumAverage.pdb

@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe.config
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\04UnicodeCharacter\bin\Debug\04UnicodeCharacter.pdb
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\04UnicodeCharacter\obj\Debug\04UnicodeCharacter.pdb

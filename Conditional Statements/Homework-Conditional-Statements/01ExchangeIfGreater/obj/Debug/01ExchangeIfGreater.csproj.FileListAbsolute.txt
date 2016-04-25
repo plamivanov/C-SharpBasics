@@ -1,0 +1,6 @@
+c:\users\plamen\documents\visual studio 2013\Projects\Homework-Conditional-Statements\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.exe.config
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.exe
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\01ExchangeIfGreater\bin\Debug\01ExchangeIfGreater.pdb
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.csprojResolveAssemblyReference.cache
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.exe
+C:\Users\plamen\Documents\Visual Studio 2013\Projects\Homework-Conditional-Statements\01ExchangeIfGreater\obj\Debug\01ExchangeIfGreater.pdb

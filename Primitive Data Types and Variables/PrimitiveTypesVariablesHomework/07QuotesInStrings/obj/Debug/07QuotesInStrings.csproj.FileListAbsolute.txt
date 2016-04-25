@@ -1,0 +1,5 @@
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe.config
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\07QuotesInStrings\bin\Debug\07QuotesInStrings.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\07QuotesInStrings\bin\Debug\07QuotesInStrings.pdb
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\07QuotesInStrings\obj\Debug\07QuotesInStrings.exe
+D:\DomashniVisualStudio\PrimitiveTypesVariablesHomework\07QuotesInStrings\obj\Debug\07QuotesInStrings.pdb
